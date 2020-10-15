@@ -2,7 +2,7 @@ body{
   font-family: 'Raleway', sans-serif; /* Test for this*/
   margin: 0;
   padding: 0;
-  font-size: 1.4em; /* test for this! Make all sizes em or rem */
+  font-size: 16pt; /* test for this! Make all sizes em or rem */
   background-image: url('../images/concrete_seamless.png');
 }
 
@@ -71,7 +71,7 @@ footer{
 
 /* Cards! */
 .pricing{
-    min-height: 31.25em;
+    min-height: 500px;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -81,10 +81,10 @@ footer{
 }
 
 .card {
-  margin: .75em;
+  margin: 12px;
   background: #fff;
-  border-radius: .438em;
-  padding: 0 0 3.125em 0;
+  border-radius: 7px;
+  padding: 0 0 50px 0;
   flex-basis: 25em;
   /*Your code here.*/
   /*Take a look at flex-basis*/
