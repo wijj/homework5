@@ -54,14 +54,14 @@ footer{
 /*Keyframes for animation*/
 
 @-webkit-keyframes logo_wiggle{
-  0%{width:1.5625em;}
-  100%{width:26.25em;}
+  0%{width:25px;}
+  100%{width:420px;}
 
 }
 
 @keyframes logo_wiggle{
-  0%{width:1.5625em;}
-  100%{width:26.25em;}
+  0%{width:25px;}
+  100%{width:420px;}
 } 
 
 #logo{
